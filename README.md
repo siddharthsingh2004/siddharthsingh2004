@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Here's a GitHub README.md file created from the resume using markdown and emojis:
 
-# Siddharth 👨‍🎓
+# Siddharth Singh
 
 📍 Franklin, TN (Open to Relocation) | 📞 (615) 710-5330 | 📧 siddharth2004@g.ucla.edu
 
@@ -32,7 +32,7 @@ Here's a GitHub README.md file created from the resume using markdown and emojis
 - Graduated: May 2023
 - Weighted Cumulative GPA: 4.60/4.0
 - ACT Score: 36 (Perfect Composite)
-- Awards: 🏆 Valedictorian, Nominee for Presidential Scholars Program by the U.S. Department of Education
+- Awards: 🏆 Valedictorian, Nominee for Presidential Scholars Program by the U.S. Department of Education, Commended Scholar for National Merit Program
 
 ## Experience 💼
 
@@ -82,6 +82,3 @@ Here's a GitHub README.md file created from the resume using markdown and emojis
 - Excel
 
 Feel free to reach out for collaborations or opportunities! 😊
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/37835795/ca25cf5f-58f1-4fef-92b7-b4935007e223/v21_Resume.pdf
