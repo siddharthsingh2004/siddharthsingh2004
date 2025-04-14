@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here's a GitHub README.md file created from the resume using markdown and emojis:
-
 # Siddharth Singh
 
 📍 Franklin, TN (Open to Relocation) | 📞 (615) 710-5330 | 📧 siddharth2004@g.ucla.edu
